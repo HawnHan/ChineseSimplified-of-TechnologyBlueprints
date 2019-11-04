@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CraftBlueprintNeolithic.label>绘制石器时代科技蓝图</CraftBlueprintNeolithic.label>
+  <CraftBlueprintNeolithic.description>绘制一张蓝图。</CraftBlueprintNeolithic.description>
+  <CraftBlueprintNeolithic.jobString>正在绘制蓝图。</CraftBlueprintNeolithic.jobString>
+
+  <CraftBlueprintMedieval.label>绘制中世纪科技蓝图</CraftBlueprintMedieval.label>
+  <CraftBlueprintMedieval.description>绘制一张蓝图。</CraftBlueprintMedieval.description>
+  <CraftBlueprintMedieval.jobString>正在绘制蓝图。</CraftBlueprintMedieval.jobString>
+
+  <CraftBlueprintIndustrial.label>绘制工业时代科技蓝图</CraftBlueprintIndustrial.label>
+  <CraftBlueprintIndustrial.description>绘制一张蓝图。</CraftBlueprintIndustrial.description>
+  <CraftBlueprintIndustrial.jobString>正在绘制蓝图。</CraftBlueprintIndustrial.jobString>
+
+  <CraftBlueprintSpacer.label>绘制太空时代科技蓝图</CraftBlueprintSpacer.label>
+  <CraftBlueprintSpacer.description>绘制一张蓝图。</CraftBlueprintSpacer.description>
+  <CraftBlueprintSpacer.jobString>正在绘制蓝图。</CraftBlueprintSpacer.jobString>
+
+
+</LanguageData>

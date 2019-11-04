@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NeolithicBlueprint.label>石器时代蓝图</NeolithicBlueprint.label>
+  <NeolithicBlueprint.description>学习如何绘制一张石器时代的科技蓝图。想要有能力绘制一张石器时代蓝图，你需要理解透彻整个石器时代的科技水平。</NeolithicBlueprint.description>
+
+  <MedievalBlueprint.label>中世纪蓝图</MedievalBlueprint.label>
+  <MedievalBlueprint.description>学习如何绘制一张中世纪的科技蓝图。想要有能力绘制一张中世纪蓝图，你需要理解透彻整个中世纪的科技水平。</MedievalBlueprint.description>
+
+  <IndustrialBlueprint.label>工业时代蓝图</IndustrialBlueprint.label>
+  <IndustrialBlueprint.description>学习如何绘制一张工业时代的科技蓝图。想要有能力绘制一张工业时代蓝图，你需要理解透彻整个工业时代的科技水平。</IndustrialBlueprint.description>
+
+  <SpacerBlueprint.label>太空时代蓝图</SpacerBlueprint.label>
+  <SpacerBlueprint.description>学习如何绘制一张太空时代的科技蓝图。想要有能力绘制一张太空时代蓝图，你需要理解透彻整个太空时代的科技水平。</SpacerBlueprint.description>
+
+
+</LanguageData>

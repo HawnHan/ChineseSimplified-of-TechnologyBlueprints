@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TechnologyBlueprintNeolithic.label>石器时代科技蓝图</TechnologyBlueprintNeolithic.label>
+  <TechnologyBlueprintNeolithic.description>含有石器时代一项科技的蓝图。通过学习这份蓝图。你得以理解一项科技研究。</TechnologyBlueprintNeolithic.description>
+  <TechnologyBlueprintNeolithic.comps.2.useLabel>{0} 科技蓝图</TechnologyBlueprintNeolithic.comps.2.useLabel>
+
+  <TechnologyBlueprintMedieval.label>中世纪科技蓝图</TechnologyBlueprintMedieval.label>
+  <TechnologyBlueprintMedieval.description>含有中世纪一项科技的蓝图。通过学习这份蓝图，你得以理解一项科技研究。</TechnologyBlueprintMedieval.description>
+  <TechnologyBlueprintMedieval.comps.2.useLabel>{0} 科技蓝图</TechnologyBlueprintMedieval.comps.2.useLabel>
+
+  <TechnologyBlueprintIndustrial.label>工业时代科技蓝图</TechnologyBlueprintIndustrial.label>
+  <TechnologyBlueprintIndustrial.description>含有工业时代一项科技的蓝图。通过学习这份蓝图，你得以理解一项科技研究。</TechnologyBlueprintIndustrial.description>
+  <TechnologyBlueprintIndustrial.comps.2.useLabel>{0} 科技蓝图</TechnologyBlueprintIndustrial.comps.2.useLabel>
+
+  <TechnologyBlueprintSpacer.label>太空时代科技蓝图</TechnologyBlueprintSpacer.label>
+  <TechnologyBlueprintSpacer.description>含有太空时代一项科技的蓝图。通过学习这份蓝图，你得以理解一项科技研究。</TechnologyBlueprintSpacer.description>
+  <TechnologyBlueprintSpacer.comps.2.useLabel>{0} 科技蓝图</TechnologyBlueprintSpacer.comps.2.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BlueprintBench.label>绘图桌</BlueprintBench.label>
+  <BlueprintBench.description>用于绘制科技蓝图的桌子。</BlueprintBench.description>
+  <BlueprintBench_Blueprint.label>绘图桌(蓝图)</BlueprintBench_Blueprint.label>
+  <BlueprintBench_Blueprint_Install.label>绘图桌(安装中)</BlueprintBench_Blueprint_Install.label>
+  <BlueprintBench_Frame.label>绘图桌(建造中)</BlueprintBench_Frame.label>
+  <BlueprintBench_Frame.description>用于绘制科技蓝图的桌子。</BlueprintBench_Frame.description>
+
+
+</LanguageData>
